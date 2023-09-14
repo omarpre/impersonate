@@ -11,7 +11,7 @@ Configure the package as you need and it's ready to go!
 
 You can install the package with composer, using the ``composer require omarpre/impersonate`` command.
 
-### Laravel 5.5
+### Laravel 5.5 or higher
 
 If you are using version 5.5, there is nothing else to do.
 Since the package supports autodiscovery, Laravel will register the service provider automatically, behind the scenes.
